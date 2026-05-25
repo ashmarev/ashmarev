@@ -1,16 +1,35 @@
-## Hi there 👋
+# Артём Шмарёв · Artem Shmarev
 
-<!--
-**ashmarev/ashmarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Управление данными и AI-архитектура · Юникон БСЛ / РГПУ им. Герцена  
+Data Governance & AI Architecture · Unicon BSL / Herzen University
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+17 лет в корпоративном управлении данными. Строю доверенные AI-системы
+для среды критической информационной инфраструктуры: локальные LLM,
+защищённый RAG, авторизация мультиагентных систем.
+
+17 years in enterprise data governance. Building trusted AI systems
+for critical information infrastructure environments: local LLMs,
+secure RAG, multi-agent authorization.
+
+---
+
+**Активные проекты · Active projects**
+- [trusted-enterprise-ai](https://github.com/trusted-enterprise-ai) — 
+  референсная архитектура Enterprise AI / reference architecture for enterprise AI
+- [heritage-data-exchange](https://github.com/herzen-vis-lab/heritage-data-exchange) — 
+  федеративный обмен для институтов культурного наследия /
+  federated data exchange for cultural heritage institutions (Herzen University)
+
+**Публикации · Writing**
+- Хабр / Habr — в процессе / in progress (локальный LLM · local LLM in corporate infrastructure)
+- LinkedIn — [Artem Shmarev](https://linkedin.com/in/ashmarev)
+
+**Научные работы · Research**
+- [Шмарев А.В., Марланд П.И. Локальное использование моделей генеративного искусственного интеллекта в университетской среде – проверка возможностей и направления развития/ On-premise use of generative AI models in the university environment: capability testing and development directions](https://nesinods.ru/shmarev-av-2026)
+- Шмарёв А. В., Шубина А. С. Цифровая трансформация университетского наследия: задачи, партнёрства, миссия/ DIGITAL TRANSFORMATION OF UNIVERSITY HERITAGE: TASKS, PARTNERSHIPS, MISSION (Журнал интегративных исследований культуры, на рецензии)
+
+**Доклады · Talks**
+- [Data Summit 2026 Киберустойчивость на основе управления данными / Сyber resilience based on Data governance](https://rutube.ru/video/8cb1b9dbbdf75085ae83444295028389/?playlist=1573750)
+  
