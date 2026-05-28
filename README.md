@@ -16,14 +16,14 @@ secure RAG, multi-agent authorization.
 ---
 
 **Активные проекты · Active projects**
-- [trusted-enterprise-ai](https://github.com/trusted-enterprise-ai) — 
-  референсная архитектура Enterprise AI / reference architecture for enterprise AI
+- [on-premise-llm-stack](https://github.com/ashmarev/on-prem-llm-stack) — 
+  локальный LLM-стек для корпоративной среды: инференс, прокси, агенты, авторизация · оn-premises LLM stack for enterprise: inference, proxy, agents, auth
 - [heritage-data-exchange](https://github.com/herzen-vis-lab/heritage-data-exchange) — 
   федеративный обмен для институтов культурного наследия /
   federated data exchange for cultural heritage institutions (Herzen University)
 
 **Публикации · Writing**
-- Хабр / Habr — в процессе / in progress (локальный LLM · local LLM in corporate infrastructure)
+- Хабр / Habr — в процессе / in progress (on-premise LLM в корпоративной среде · on-premise LLM for enterprise)
 - LinkedIn — [Artem Shmarev](https://linkedin.com/in/ashmarev)
 
 **Научные работы · Research**
