@@ -1,7 +1,7 @@
 # Артём Шмарёв · Artem Shmarev
 
-Управление данными и AI-архитектура · Юникон БСЛ / РГПУ им. Герцена  
-Data Governance & AI Architecture · Unicon BSL / Herzen University
+Управление данными и AI-архитектура · Руководитель лаборатории ·  Юникон БСЛ / РГПУ им. Герцена  
+Data Governance & AI Architect · Lab Head · Unicon BSL / Herzen University
 
 ---
 
