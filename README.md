@@ -16,7 +16,7 @@ secure RAG, multi-agent authorization.
 ---
 
 **Активные проекты · Active projects**
-- [on-premise-llm-stack](https://github.com/ashmarev/on-prem-llm-stack) — 
+- [on-prem-llm-stack](https://github.com/ashmarev/on-prem-llm-stack) — 
   локальный LLM-стек для корпоративной среды: инференс, прокси, агенты, авторизация · оn-premises LLM stack for enterprise: inference, proxy, agents, auth
 - [heritage-data-exchange](https://github.com/herzen-vis-lab/heritage-data-exchange) — 
   федеративный обмен для институтов культурного наследия /
