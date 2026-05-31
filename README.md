@@ -17,13 +17,16 @@ secure RAG, multi-agent authorization.
 
 **Активные проекты · Active projects**
 - [on-prem-llm-stack](https://github.com/ashmarev/on-prem-llm-stack) — 
-  локальный LLM-стек для корпоративной среды: инференс, прокси, агенты, авторизация · оn-premises LLM stack for enterprise: inference, proxy, agents, auth
+  фреймворк принятия решений для enterprise AI в периметре: от требований КИИ и выбора модели — 
+  до агентной архитектуры и авторизации между агентами
 - [heritage-data-exchange](https://github.com/herzen-vis-lab/heritage-data-exchange) — 
-  федеративный обмен для институтов культурного наследия /
-  federated data exchange for cultural heritage institutions (Herzen University)
+  прототип федеративного MDM для слабосвязанной сети независимых организаций —
+  реализован на домене культурного наследия, архитектурные паттерны применимы к холдинговым структурам
+  и межведомственному обмену в КИИ. Решает три задачи: идентификация узлов без центрального оператора,
+  record linkage между независимыми хранилищами, согласование НСИ в федеративной топологии.
 
 **Публикации · Writing**
-- Хабр / Habr — в процессе / in progress (on-premise LLM в корпоративной среде · on-premise LLM for enterprise)
+- Хабр / Habr — планируется в июне 2026 / planned on June 2026 (on-premise LLM в корпоративной среде · on-premise LLM for enterprise)
 - LinkedIn — [Artem Shmarev](https://linkedin.com/in/ashmarev)
 
 **Научные работы · Research**
