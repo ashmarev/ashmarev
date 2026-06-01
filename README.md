@@ -1,35 +1,38 @@
 # Артём Шмарёв · Artem Shmarev
-
-Управление данными и AI-архитектура · Руководитель лаборатории ·  Юникон БСЛ / РГПУ им. Герцена  
-Data Governance & AI Architect · Lab Head · Unicon BSL / Herzen University
-
+ 
+Data Governance & AI Architect · Lab Coordinator · Unicon BSL / Herzen University  
+Управление данными и AI-архитектура · Координатор лаборатории · Юникон БСЛ / РГПУ им. Герцена
+ 
 ---
-
-17 лет в корпоративном управлении данными. Строю доверенные AI-системы
-для среды критической информационной инфраструктуры: локальные LLM,
-защищённый RAG, авторизация мультиагентных систем.
-
-17 years in enterprise data governance. Building trusted AI systems
-for critical information infrastructure environments: local LLMs,
-secure RAG, multi-agent authorization.
-
+ 
+17 years in enterprise data governance across oil & gas, manufacturing, transport, and energy (KII).  
+Building trusted AI systems for critical infrastructure: local LLMs, secure RAG, multi-agent authorization.
+ 
+17 лет в корпоративном управлении данными — нефтянка, промышленность, транспорт, энергетика (КИИ).  
+Строю доверенные AI-системы для критической инфраструктуры: локальные LLM, защищённый RAG, авторизация агентов.
+ 
 ---
-
-**Активные проекты · Active projects**
-- [on-prem-llm-stack](https://github.com/ashmarev/on-prem-llm-stack) — 
-  фреймворк принятия решений для enterprise AI в периметре: от требований КИИ и выбора модели — 
-  до агентной архитектуры и авторизации между агентами
-- [heritage-data-exchange](https://github.com/ashmarev/heritage-data-exchange) — 
-  федеративный MDM без центрального оператора: те же паттерны суверенитета данных что и в enterprise,
-  реализованные в академической среде РГПУ
-
-**Публикации · Writing**
-- Хабр / Habr — планируется в июне 2026 / planned on June 2026 (on-premise LLM в корпоративной среде · on-premise LLM for enterprise)
-- LinkedIn — [Artem Shmarev](https://linkedin.com/in/ashmarev)
-
-**Научные работы · Research**
-- [Шмарев А.В., Марланд П.И. Локальное использование моделей генеративного искусственного интеллекта в университетской среде – проверка возможностей и направления развития/ On-premise use of generative AI models in the university environment: capability testing and development directions](https://nesinods.ru/shmarev-av-2026)
-
-**Доклады · Talks**
-- [Data Summit 2026 Киберустойчивость на основе управления данными / Сyber resilience based on Data governance](https://rutube.ru/video/8cb1b9dbbdf75085ae83444295028389/?playlist=1573750)
-  
+ 
+## Active projects · Активные проекты
+ 
+**[heritage-data-exchange](https://github.com/herzen-vis-lab/heritage-data-exchange)**  
+Federated MDM protocol for loosely coupled networks — same data sovereignty patterns as in enterprise holdings with independent legal entities, validated on a cultural heritage domain (Herzen University).  
+*Federated deduplication · Record linkage · Authority reconciliation · No central operator*
+ 
+---
+ 
+## Writing · Публикации
+ 
+- **Хабр** — серия "Local AI в корпоративной среде" · *выходит июнь 2026*
+- **LinkedIn** — [Artem Shmarev](https://linkedin.com/in/ashmarev)
+---
+ 
+## Research · Научные работы
+ 
+- Shmarev A., Marland P. — [On-premise use of generative AI models in the university environment](https://nesinods.ru/shmarev-av-2026) · 2026
+- Shmarev A., Shubina A. — Digital Transformation of University Heritage: Tasks, Partnerships, Mission · *(under review)*
+---
+ 
+## Talks · Доклады
+ 
+- [Data Summit 2026 — Cyber Resilience Based on Data Governance](https://rutube.ru/video/8cb1b9dbbdf75085ae83444295028389/?playlist=1573750)
