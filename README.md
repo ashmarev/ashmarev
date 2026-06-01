@@ -29,7 +29,6 @@ secure RAG, multi-agent authorization.
 
 **Научные работы · Research**
 - [Шмарев А.В., Марланд П.И. Локальное использование моделей генеративного искусственного интеллекта в университетской среде – проверка возможностей и направления развития/ On-premise use of generative AI models in the university environment: capability testing and development directions](https://nesinods.ru/shmarev-av-2026)
-- Шмарёв А. В., Шубина А. С. Цифровая трансформация университетского наследия: задачи, партнёрства, миссия/ DIGITAL TRANSFORMATION OF UNIVERSITY HERITAGE: TASKS, PARTNERSHIPS, MISSION (Журнал интегративных исследований культуры, на рецензии)
 
 **Доклады · Talks**
 - [Data Summit 2026 Киберустойчивость на основе управления данными / Сyber resilience based on Data governance](https://rutube.ru/video/8cb1b9dbbdf75085ae83444295028389/?playlist=1573750)
