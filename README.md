@@ -19,7 +19,7 @@ secure RAG, multi-agent authorization.
 - [on-prem-llm-stack](https://github.com/ashmarev/on-prem-llm-stack) — 
   фреймворк принятия решений для enterprise AI в периметре: от требований КИИ и выбора модели — 
   до агентной архитектуры и авторизации между агентами
-- [heritage-data-exchange](https://github.com/herzen-vis-lab/heritage-data-exchange) — 
+- [heritage-data-exchange](https://github.com/ashmarev/heritage-data-exchange) — 
   федеративный MDM без центрального оператора: те же паттерны суверенитета данных что и в enterprise,
   реализованные в академической среде РГПУ
 
