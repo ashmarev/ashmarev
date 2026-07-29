@@ -15,7 +15,6 @@ Building trusted AI systems for critical infrastructure: local LLMs, secure RAG,
  
 ## Публикации · Writing
  
-- **Хабр** — первая статья из серии "AI внутри периметра: практика без иллюзий" · *выходит июнь 2026*
 - **LinkedIn** — [Artem Shmarev](https://linkedin.com/in/ashmarev)
 ---
  
