@@ -16,6 +16,8 @@ Building trusted AI systems for critical infrastructure: local LLMs, secure RAG,
 ## Публикации · Writing
  
 - **LinkedIn** — [Artem Shmarev](https://linkedin.com/in/ashmarev)
+- **Habr (Innostage)** — [Киберустойчивость начинается с данных](https://habr.com/ru/companies/innostage/articles/1067036/) · 2026  
+  *(Cyber Resilience Starts with Data)*
 ---
  
 ## Научные работы · Research
